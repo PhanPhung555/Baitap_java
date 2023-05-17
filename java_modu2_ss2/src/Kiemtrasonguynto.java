@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Songuyento {
+public class Kiemtrasonguynto {
     public static void main(String[] args) {
 //        bước 1 : Khai baó biến và nhận đọ dài từ mảng
         Scanner num = new Scanner(System.in);
