@@ -1,4 +1,4 @@
-public class java_ss2_bai4 {
+public class Timgiatrilonnho {
     public static void main(String[] args) {
         int[][] num = {{1, 2, 3, 4}, {-1, 8, 7, 9, 19}};
 //        Gán giá trị max , min ở vị trí 0 , phần tử 0

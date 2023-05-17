@@ -1,4 +1,4 @@
-public class java_ss3_bai3 {
+public class Gopmang {
     public static void main(String[] args) {
         int[] number = {1, 29, 3, 4, 5};
         int[] number1 = {2, 3, 4, 5, 6};
